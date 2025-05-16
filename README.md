@@ -6,6 +6,6 @@
 6. simple
 
 
-clone url:: ---  https://github.com/Jayesh-Hue/lidar_project.git 
-make yours branch - sumit_code
+7. clone url:: ---  https://github.com/Jayesh-Hue/lidar_project.git 
+8. make yours branch - sumit_code
 
