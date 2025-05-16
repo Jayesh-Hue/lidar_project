@@ -9,3 +9,4 @@
 7. clone url:: ---  https://github.com/Jayesh-Hue/lidar_project.git 
 8. make yours branch - sumit_code
 
+9. for report also send me your email, so that i can add you to it, i wll make the report you just provide me imp info to write what you think.... 
